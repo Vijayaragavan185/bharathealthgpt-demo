@@ -9,8 +9,7 @@
 6. Getting Started  
 7. Repository Structure  
 8. Roadmap  
-9. Contributing  
-10. License  
+9. License
 
 ## 1. Project Overview
 The Intel Unnati Healthcare Kiosk project delivers an **AI-enabled, self-service point of care** that can operate in rural or urban clinics, corporate campuses, and community centers.  
