@@ -100,6 +100,7 @@ print(bot.process_query("Mujhe bukhar hai", language="hi"))
 ```
 
 ## 7. Repository Structure
+<pre>
 ```
 .
 ├── docs/                 # Design docs, architecture diagrams
@@ -112,6 +113,7 @@ print(bot.process_query("Mujhe bukhar hai", language="hi"))
 ├── requirements.txt
 └── README.md             # This file
 ```
+</pre>
 
 
 ## 8. Contributing
